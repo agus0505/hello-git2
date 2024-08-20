@@ -1,1 +1,1 @@
-document.write('hello git 2!')
+document.write('hello git 2 v2!')
